@@ -1,0 +1,13 @@
+Folder PATH listing
+Volume serial number is CAAA-E7C0
+C:.
+├───build
+│   └───main
+│       └───localpycs
+├───dist
+│   └───Logs
+├───Logs
+├───Modules
+│   └───__pycache__
+└───UI
+    └───__pycache__

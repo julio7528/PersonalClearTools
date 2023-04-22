@@ -1,0 +1,254 @@
+------------------------------------------------------------------------------------------
+Log:21/04/2023 14:28:57:872909 - Starting the Program
+                                                                                          CPU%:16.7%-CPUGHZ:2904.0-MEM:53.0%
+Log:Folder to Delete: C:\Users\julio\Desktop\python\Delete Temp Files\DefTest
+Log:Folder to Delete: C:\Users\julio\Desktop\python\Delete Temp Files\DefTest - Copy
+Log:21/04/2023 14:28:57:887895 - Starting Delete Files
+                                                                                          CPU%:14.3%-CPUGHZ:2904.0-MEM:53.0%
+Log:Folder: C:\Users\julio\Desktop\python\Delete Temp Files\DefTest
+Log:File: SharedInfo.bin - Deleted
+Log:File: .ses - Deleted
+Log:File: {0F6FD0AA-0184-4B91-A2C1-C58A668AA507} - OProcSessId.dat - Deleted
+Log:File: {2F8656D9-55BC-4A7B-A285-3B267CE888AA} - OProcSessId.dat - Deleted
+Log:File: {62C0D2A2-F500-43FE-B31D-1E90605B0A87} - OProcSessId.dat - Deleted
+Log:File: {AB56B072-91A2-4892-A02B-D775C3532859} - OProcSessId.dat - Deleted
+Log:File: {B8846B34-151A-4EAB-9386-F4868DCA6CD5} - OProcSessId.dat - Deleted
+Log:File: {B93E9144-631F-4710-9AC5-71F46EC528C1} - OProcSessId.dat - Deleted
+Log:File: {D068FF1A-0CDA-4809-A6C5-7C34687DE5BF} - OProcSessId.dat - Deleted
+Log:File: {EAF9A35F-C494-4BE7-9C4E-A97CD59C46BD} - OProcSessId.dat - Deleted
+Log:File: {F19C572F-6DD8-4B9E-9A14-8C7C0606DEAA} - OProcSessId.dat - Deleted
+Log:Folder: eToken.hid - Deleted
+Log:Folder: C:\Users\julio\Desktop\python\Delete Temp Files\DefTest - Copy
+Log:File: SharedInfo.bin - Deleted
+Log:File: .ses - Deleted
+Log:File: {0F6FD0AA-0184-4B91-A2C1-C58A668AA507} - OProcSessId.dat - Deleted
+Log:File: {2F8656D9-55BC-4A7B-A285-3B267CE888AA} - OProcSessId.dat - Deleted
+Log:File: {62C0D2A2-F500-43FE-B31D-1E90605B0A87} - OProcSessId.dat - Deleted
+Log:File: {AB56B072-91A2-4892-A02B-D775C3532859} - OProcSessId.dat - Deleted
+Log:File: {B8846B34-151A-4EAB-9386-F4868DCA6CD5} - OProcSessId.dat - Deleted
+Log:File: {B93E9144-631F-4710-9AC5-71F46EC528C1} - OProcSessId.dat - Deleted
+Log:File: {D068FF1A-0CDA-4809-A6C5-7C34687DE5BF} - OProcSessId.dat - Deleted
+Log:File: {EAF9A35F-C494-4BE7-9C4E-A97CD59C46BD} - OProcSessId.dat - Deleted
+Log:File: {F19C572F-6DD8-4B9E-9A14-8C7C0606DEAA} - OProcSessId.dat - Deleted
+Log:Folder: eToken.hid - Deleted
+Log:21/04/2023 14:28:57:998054 - Ending Delete Files
+                                                                                          CPU%:19.4%-CPUGHZ:2904.0-MEM:53.0%
+Log:21/04/2023 14:28:58:013684 - Starting Empty Recycle Bin
+                                                                                          CPU%:16.7%-CPUGHZ:2904.0-MEM:53.0%
+Log:Recycle Bin - Emptied = b'Clear-RecycleBin : The system cannot find the path specified\nAt line:1 char:1\n+ Clear-RecycleBin -Force\n+ ~~~~~~~~~~~~~~~~~~~~~~~\n    + CategoryInfo          : InvalidOperation: (RecycleBin:String) [Clear-RecycleBin], Win32Exception\n    + FullyQualifiedErrorId : FailedToClearRecycleBin,Microsoft.PowerShell.Commands.ClearRecycleBinCommand\n \n'
+Log:21/04/2023 14:28:59:198168 - Ending Empty Recycle Bin
+                                                                                          CPU%:66.2%-CPUGHZ:2904.0-MEM:53.0%
+Log:21/04/2023 14:28:59:560420 - List of Processes Running
+                                                                                          CPU%:19.6%-CPUGHZ:2904.0-MEM:53.0%
+Log:Process: AggregatorHost.exe
+Log:Process: AnyDesk.exe
+Log:Process: ApplicationFrameHost.exe
+Log:Process: Automation.Edge.BrowserAgent.exe
+Log:Process: BluePrism.MessagingHost.exe
+Log:Process: CNMNSST2.exe
+Log:Process: Code.exe
+Log:Process: EEventManager.exe
+Log:Process: EPCP.exe
+Log:Process: EPWD.exe
+Log:Process: FileSyncHelper.exe
+Log:Process: HP.UFT.HelperService.exe
+Log:Process: LCore.exe
+Log:Process: LMS.exe
+Log:Process: LogiRegistryService.exe
+Log:Process: MemCompression
+Log:Process: Microsoft.Flow.RPA.LauncherService.exe
+Log:Process: Microsoft.Flow.RPA.LogShipper.exe
+Log:Process: Microsoft.Flow.RPA.UpdateService.exe
+Log:Process: Microsoft.PowerBI.EnterpriseGateway.exe
+Log:Process: ModelInstallService.exe
+Log:Process: MpCopyAccelerator.exe
+Log:Process: MsMpEng.exe
+Log:Process: NVDisplay.Container.exe
+Log:Process: NisSrv.exe
+Log:Process: OfficeClickToRun.exe
+Log:Process: PAD.BrowserNativeMessageHost.exe
+Log:Process: PhoneExperienceHost.exe
+Log:Process: PnkBstrA.exe
+Log:Process: PresentationFontCache.exe
+Log:Process: RadeonSoftware.exe
+Log:Process: Registry
+Log:Process: RtkAudUService64.exe
+Log:Process: RuntimeBroker.exe
+Log:Process: SACMonitor.exe
+Log:Process: SACSRV.exe
+Log:Process: SearchHost.exe
+Log:Process: SearchIndexer.exe
+Log:Process: SecurityHealthService.exe
+Log:Process: SgrmBroker.exe
+Log:Process: ShellExperienceHost.exe
+Log:Process: StartMenuExperienceHost.exe
+Log:Process: SwUSB.exe
+Log:Process: SynTPEnh.exe
+Log:Process: SynTPEnhService.exe
+Log:Process: SynTPHelper.exe
+Log:Process: System
+Log:Process: System Idle Process
+Log:Process: SystemSettings.exe
+Log:Process: SystemSettingsBroker.exe
+Log:Process: Teams.exe
+Log:Process: TextInputHost.exe
+Log:Process: TracSrvWrapper.exe
+Log:Process: UIFlowService.exe
+Log:Process: Video.UI.exe
+Log:Process: WhatsApp.exe
+Log:Process: WidgetService.exe
+Log:Process: Widgets.exe
+Log:Process: WinAutomation.MachineAgent.exe
+Log:Process: WinAutomation.Server.exe
+Log:Process: WmiPrvSE.exe
+Log:Process: WsAppService.exe
+Log:Process: aciseagent.exe
+Log:Process: aciseposture.exe
+Log:Process: agent_ovpnconnect_1638964996365.exe
+Log:Process: amdfendrsr.exe
+Log:Process: atieclxx.exe
+Log:Process: atiesrxx.exe
+Log:Process: atmgr.exe
+Log:Process: audiodg.exe
+Log:Process: backgroundTaskHost.exe
+Log:Process: cmd.exe
+Log:Process: cncmd.exe
+Log:Process: conhost.exe
+Log:Process: crashpad_handler.exe
+Log:Process: csrss.exe
+Log:Process: ctfmon.exe
+Log:Process: dasHost.exe
+Log:Process: dllhost.exe
+Log:Process: dwm.exe
+Log:Process: escsvc64.exe
+Log:Process: explorer.exe
+Log:Process: fontdrvhost.exe
+Log:Process: gameinputsvc.exe
+Log:Process: gamingservices.exe
+Log:Process: gamingservicesnet.exe
+Log:Process: httpd.exe
+Log:Process: igfxCUIService.exe
+Log:Process: ijplmsvc.exe
+Log:Process: javaw.exe
+Log:Process: jhi_service.exe
+Log:Process: jucheck.exe
+Log:Process: jusched.exe
+Log:Process: laclient.exe
+Log:Process: lsass.exe
+Log:Process: mDNSResponder.exe
+Log:Process: mediaserver.exe
+Log:Process: msedge.exe
+Log:Process: mysqld.exe
+Log:Process: ovpnhelper_service.exe
+Log:Process: powershell.exe
+Log:Process: pwsh.exe
+Log:Process: python.exe
+Log:Process: runSW.exe
+Log:Process: services.exe
+Log:Process: sihost.exe
+Log:Process: smss.exe
+Log:Process: spacedeskService.exe
+Log:Process: spoolsv.exe
+Log:Process: sqlwriter.exe
+Log:Process: svchost.exe
+Log:Process: taskhostw.exe
+Log:Process: uhssvc.exe
+Log:Process: vpnagent.exe
+Log:Process: wininit.exe
+Log:Process: winlogon.exe
+Log:21/04/2023 14:29:00:159746 - End of List of Processes Running
+                                                                                          CPU%:22.2%-CPUGHZ:2904.0-MEM:53.2%
+Log:Program to Close: AdobeIPCBroker.exe
+Log:Program to Close: AnyDesk.exe
+Log:Program to Close: Automation.Bot.BrowserAgent.exe
+Log:Program to Close: Automation.Edge.BrowserAgent.exe
+Log:Program to Close: BluePrism.MessagingHost.exe
+Log:Program to Close: CCXProcess.exe
+Log:Program to Close: Discord.exe
+Log:Program to Close: EXCEL.EXE
+Log:Program to Close: E_YATII4E.EXE
+Log:Program to Close: EpicGamesLauncher.exe
+Log:Program to Close: EpicWebHelper.exe
+Log:Program to Close: FileSyncHelper.exe
+Log:Program to Close: HP.UFT.HelperService.exe
+Log:Program to Close: Lightshot.exe
+Log:Program to Close: LogiRegistryService.exe
+Log:Program to Close: Microsoft.Flow.RPA.LauncherService.exe
+Log:Program to Close: Microsoft.Flow.RPA.LogShipper.exe
+Log:Program to Close: Microsoft.Flow.RPA.Notifier.exe
+Log:Program to Close: Microsoft.Flow.RPA.UpdateService.exe
+Log:Program to Close: Microsoft.PowerBI.EnterpriseGateway.exe
+Log:Program to Close: Microsoft.SharePoint.exe
+Log:Program to Close: ONENOTEM.EXE
+Log:Program to Close: OfficeClickToRun.exe
+Log:Program to Close: OneDrive.exe
+Log:Program to Close: OpenConsole.exe
+Log:Program to Close: PAD.BrowserNativeMessageHost.exe
+Log:Program to Close: WINWORD.EXE
+Log:Program to Close: WebexHost.exe
+Log:Program to Close: WhatsApp.exe
+Log:Program to Close: WinAutomation.EdgeMessageHost.exe
+Log:Program to Close: WinAutomation.MachineAgent.exe
+Log:Program to Close: WinAutomation.Server.exe
+Log:Program to Close: WindowsTerminal.exe
+Log:Program to Close: ai.exe
+Log:Program to Close: cmd.exe
+Log:Program to Close: chrome.exe
+Log:Program to Close: gameinputsvc.exe
+Log:Program to Close: gamingservices.exe
+Log:Program to Close: gamingservicesnet.exe
+Log:Program to Close: msedge.exe
+Log:Program to Close: spacedeskService.exe
+Log:Program to Close: spacedeskServiceTray.exe
+Log:Program to Close: steam.exe
+Log:Program to Close: steamservice.exe
+Log:Program to Close: steamwebhelper.exe
+Log:Program to Close: EPWD.exe
+Log:21/04/2023 14:29:00:428704 - Starting Close Process
+                                                                                          CPU%:36.1%-CPUGHZ:2904.0-MEM:53.4%
+Log:Process: AnyDesk.exe - Not Closed
+Log:Process: Automation.Edge.BrowserAgent.exe - Closed
+Log:Process: BluePrism.MessagingHost.exe - Closed
+Log:Process: FileSyncHelper.exe - Not Closed
+Log:Process: HP.UFT.HelperService.exe - Not Closed
+Log:Process: LogiRegistryService.exe - Not Closed
+Log:Process: Microsoft.Flow.RPA.LauncherService.exe - Not Closed
+Log:Process: Microsoft.Flow.RPA.LogShipper.exe - Not Closed
+Log:Process: Microsoft.Flow.RPA.UpdateService.exe - Not Closed
+Log:Process: Microsoft.PowerBI.EnterpriseGateway.exe - Not Closed
+Log:Process: OfficeClickToRun.exe - Not Closed
+Log:Process: PAD.BrowserNativeMessageHost.exe - Closed
+Log:Process: PAD.BrowserNativeMessageHost.exe - Closed
+Log:Process: WhatsApp.exe - Closed
+Log:Process: WinAutomation.MachineAgent.exe - Not Closed
+Log:Process: WinAutomation.Server.exe - Not Closed
+Log:Process: cmd.exe - Closed
+Log:Process: gameinputsvc.exe - Not Closed
+Log:Process: gameinputsvc.exe - Not Closed
+Log:Process: gamingservices.exe - Not Closed
+Log:Process: gamingservicesnet.exe - Not Closed
+Log:Process: msedge.exe - Closed
+Log:Process: msedge.exe - Closed
+Log:Process: msedge.exe - Closed
+Log:Process: msedge.exe - Closed
+Log:Process: msedge.exe - Closed
+Log:Process: msedge.exe - Closed
+Log:Process: msedge.exe - Closed
+Log:Process: msedge.exe - Closed
+Log:Process: msedge.exe - Closed
+Log:Process: msedge.exe - Closed
+Log:Process: msedge.exe - Closed
+Log:Process: msedge.exe - Closed
+Log:Process: msedge.exe - Closed
+Log:Process: msedge.exe - Closed
+Log:Process: msedge.exe - Closed
+Log:Process: msedge.exe - Closed
+Log:Process: msedge.exe - Closed
+Log:Process: msedge.exe - Closed
+Log:Process: spacedeskService.exe - Not Closed
+Log:Process: EPWD.exe - Not Closed
+Log:21/04/2023 14:29:16:044901 - Ending Close Process
+                                                                                          CPU%:26.0%-CPUGHZ:2904.0-MEM:45.5%
+Log:21/04/2023 14:29:16:055434 - Ending the Program
+                                                                                          CPU%:0.0%-CPUGHZ:2904.0-MEM:45.5%
+------------------------------------------------------------------------------------------
